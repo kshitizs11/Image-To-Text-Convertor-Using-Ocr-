@@ -1,5 +1,5 @@
 # Image-To-Text-Convertor-Using-Ocr-
-### It Helps to Convert Images in which certain text is written to Original text Using OCR(Optical character recognition) .We just need to feed text based image to themodel and it will convert it to tect.
+### It Helps to Convert Images in which certain text is written to Original text Using OCR(Optical character recognition) .We just need to feed text based image to the model and it will convert it to text.
 # Libraries Used:
 - CV2
 - Numpy
@@ -9,4 +9,4 @@
 # Models Used
 - CRNN
 # Loss Computed
-- CTC Loss
+- CTC(Connectionist temporal classification) Loss
